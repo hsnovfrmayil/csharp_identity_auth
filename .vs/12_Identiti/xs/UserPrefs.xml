@@ -1,0 +1,57 @@
+﻿<Properties StartupConfiguration="{60A5560C-1103-4BE4-996A-14FE21A66C7B}|https">
+  <MonoDevelop.Ide.ItemProperties.12__Identiti PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="12_Identiti/Controllers/AccountController.cs">
+    <Files>
+      <File FileName="12_Identiti/Datas/AppDbContext.cs" />
+      <File FileName="12_Identiti/Controllers/AccountController.cs" Line="157" Column="1" />
+      <File FileName="12_Identiti/Controllers/HomeController.cs" />
+      <File FileName="12_Identiti/Models/Entities/Product.cs" />
+      <File FileName="12_Identiti/Program.cs" />
+      <File FileName="12_Identiti/Areas/Admin/Controllers/HomeController.cs" Line="17" Column="32" />
+      <File FileName="12_Identiti/Views/Account/AccessDenied.cshtml" />
+      <File FileName="12_Identiti/Services/Policies/AgeRequirement.cs" />
+      <File FileName="12_Identiti/Services/Handler/AgeRequirementHandler.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="12_Identiti" expanded="True">
+            <Node name="12_Identiti" expanded="True">
+              <Node name="Areas" expanded="True">
+                <Node name="Admin" expanded="True">
+                  <Node name="Controllers" expanded="True" />
+                  <Node name="Views" expanded="True">
+                    <Node name="Home" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="Controllers" expanded="True">
+                <Node name="AccountController.cs" selected="True" />
+              </Node>
+              <Node name="Datas" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="Entities" expanded="True" />
+              </Node>
+              <Node name="Services" expanded="True">
+                <Node name="Handler" expanded="True" />
+                <Node name="Policies" expanded="True" />
+              </Node>
+              <Node name="Validators" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Account" expanded="True" />
+                <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
